@@ -1,6 +1,6 @@
 Startup Workshop Series (2018-06-20) Cloudfront-ApplicationLoadBalancer-EC2
 ======
-### Repo: [https://github.com/juntinyeh/AWSWorkshop-20180620-CF-ALB-EC2]
+### Repo: [https://github.com//AWSWorkshop-20180620-CF-ALB-EC2]
 
 Today we are going to several configuration detail in Amazon CloudFront, which can support us to setup the distribution in front of our web services and application servers. From our last workshop, we already discussed about how to separate the static assets from dynamic content, if you want to review more detail, please check [Here](https://github.com/juntinyeh/AWSWorkshop-20180524-EC2-S3-CF)
 
